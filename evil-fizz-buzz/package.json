@@ -1,0 +1,19 @@
+{
+  "name": "evil-fizz-buzz",
+  "version": "1.0.0",
+  "description": "[![CircleCI](https://circleci.com/gh/stride-nyc/evil-fizz-buzz.svg?style=svg&circle-token=ccd1e74716d62c1f9caf937272060c3c0e20f82f)](https://circleci.com/gh/stride-nyc/evil-fizz-buzz)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
